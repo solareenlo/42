@@ -1,5 +1,5 @@
 # 42
-- My 42 repository.
+- My 42 repository
 
 ## Table
 
