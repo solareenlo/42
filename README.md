@@ -15,5 +15,6 @@
 | Project  | [42push_swap](https://github.com/solareenlo/42push_swap)         | Sorting Algorithm                     |
 |          | [42libasm](https://github.com/solareenlo/42libasm)               | Assembler Basics                      |
 |          | [42get_next_line](https://github.com/solareenlo/42get_next_line) | gnl                                   |
+|          | [42libft](https://github.com/solareenlo/42libft)                 | Reimplementing libc                   |
 | Exam     | [42exam-rank-03](https://github.com/solareenlo/42exam-rank-03)   | Exam Rank 03                          |
 |          | [42exam-rank-02](https://github.com/solareenlo/42exam-rank-02)   | Exam Rank 02                          |
