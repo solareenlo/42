@@ -8,6 +8,7 @@
 | API      | [42api](https://github.com/solareenlo/42api)                     | 42api reference                       |
 | Book     | [42books](https://github.com/solareenlo/42books)                 | Reference books for 42cursus projects |
 | Docker   | [42docker](https://github.com/solareenlo/42docker)               | Dockerized tools used in 42cursus     |
+| Norm     | [42norminette](https://github.com/solareenlo/42norminette)       | Norminette                            |
 | Tool     | [42tools](https://github.com/solareenlo/42tools)                 | Making 42 life better                 |
 | Vim      | [42header](https://github.com/solareenlo/42header)               | 42 header for jp                      |
 | Wiki     | [42wiki](https://github.com/solareenlo/42wiki)                   | wiki.js with 42 Oauth2.0              |
