@@ -7,6 +7,7 @@
 |----------|------------------------------------------------------------------|---------------------------------------|
 | API      | [42api](https://github.com/solareenlo/42api)                     | 42api reference                       |
 | Book     | [42books](https://github.com/solareenlo/42books)                 | Reference books for 42cursus projects |
+| Cluster | [42cluster](https://github.com/solareenlo/42cluster) | Initialize cluster's Mac |
 | Docker   | [42docker](https://github.com/solareenlo/42docker)               | Dockerized tools used in 42cursus     |
 | Norm     | [42norminette](https://github.com/solareenlo/42norminette)       | Norminette                            |
 | Tool     | [42tools](https://github.com/solareenlo/42tools)                 | Making 42 life better                 |
