@@ -12,6 +12,7 @@
 | Norm     | [42norminette](https://github.com/solareenlo/42norminette)       | Norminette                            |
 | Review   | [42review](https://github.com/solareenlo/42review)               | Review!                               |
 | Tool     | [42tools](https://github.com/solareenlo/42tools)                 | Making 42 life better                 |
+|          | [42deque](https://github.com/solareenlo/42deque)                 | Deque                                 |
 | Vim      | [42header](https://github.com/solareenlo/42header)               | 42 header for jp                      |
 | Wiki     | [42wiki](https://github.com/solareenlo/42wiki)                   | wiki.js with 42 Oauth2.0              |
 |          | [42wiki-db](https://github.com/solareenlo/42wiki-db)             | Backup for 42wiki                     |
