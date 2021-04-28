@@ -21,5 +21,6 @@
 |          | [42libasm](https://github.com/solareenlo/42libasm)               | Assembler Basics                      |
 |          | [42get_next_line](https://github.com/solareenlo/42get_next_line) | getline                               |
 |          | [42libft](https://github.com/solareenlo/42libft)                 | Reimplementing libc                   |
-| Exam     | [42exam-rank-03](https://github.com/solareenlo/42exam-rank-03)   | Exam Rank 03                          |
+| Exam     | [42exam-rank-04](https://github.com/solareenlo/42exam-rank-04)   | Exam Rank 04                          |
+|          | [42exam-rank-03](https://github.com/solareenlo/42exam-rank-03)   | Exam Rank 03                          |
 |          | [42exam-rank-02](https://github.com/solareenlo/42exam-rank-02)   | Exam Rank 02                          |
