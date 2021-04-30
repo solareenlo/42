@@ -16,6 +16,7 @@
 | Vim      | [42header](https://github.com/solareenlo/42header)               | 42 header for jp                      |
 | Wiki     | [42wiki](https://github.com/solareenlo/42wiki)                   | wiki.js with 42 Oauth2.0              |
 |          | [42wiki-db](https://github.com/solareenlo/42wiki-db)             | Backup for 42wiki                     |
+| Project  | [42philosophers](https://github.com/solareenlo/42philosophers)   | Dining Philosophers Problem           |
 | Project  | [ft_services](https://github.com/solareenlo/ft_services)         | k8s practice                          |
 |          | [42push_swap](https://github.com/solareenlo/42push_swap)         | Sorting Algorithm using two deque     |
 |          | [42libasm](https://github.com/solareenlo/42libasm)               | Assembler Basics                      |
