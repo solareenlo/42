@@ -5,13 +5,14 @@
 
 | Category | Name                                                             | Description                             |
 |----------|------------------------------------------------------------------|-----------------------------------------|
+| AMA      | [42AMA](https://github.com/solareenlo/42AMA)                     | AMA                                     |
 | API      | [42api](https://github.com/solareenlo/42api)                     | 42api reference                         |
 |          | [42API-client](https://github.com/solareenlo/42API-client)       | 42's API with Next.js, SWR and Tailwind |
 | Book     | [42books](https://github.com/solareenlo/42books)                 | Reference books for 42cursus projects   |
 | Cluster  | [42cluster](https://github.com/solareenlo/42cluster)             | Initialize cluster's Mac                |
 | Docker   | [42docker](https://github.com/solareenlo/42docker)               | Dockerized tools used in 42cursus       |
 | Norm     | [42norminette](https://github.com/solareenlo/42norminette)       | Norminette                              |
-| Review   | [42review](https://github.com/solareenlo/42review)               | Review!                                 |
+| Review   | [42review](https://github.com/solareenlo/42review)               | Review                                  |
 | Tool     | [42tools](https://github.com/solareenlo/42tools)                 | Making 42 life better                   |
 |          | [42deque](https://github.com/solareenlo/42deque)                 | Deque                                   |
 | Vim      | [42header](https://github.com/solareenlo/42header)               | 42 header for jp                        |
