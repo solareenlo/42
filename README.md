@@ -16,6 +16,7 @@
 | Tool     | [42tools](https://github.com/solareenlo/42tools)                 | Making 42 life better                   |
 |          | [42deque](https://github.com/solareenlo/42deque)                 | Deque                                   |
 | Vim      | [42header](https://github.com/solareenlo/42header)               | 42 header for jp                        |
+|          | [42myvimrc](https://github.com/solareenlo/42myvimrc)             | .myvimrc                                |
 | Wiki     | [42wiki](https://github.com/solareenlo/42wiki)                   | wiki.js with 42 Oauth2.0                |
 |          | [42wiki-db](https://github.com/solareenlo/42wiki-db)             | Backup for 42wiki                       |
 | Project  | [42cpp-module-00](https://github.com/solareenlo/42cpp-module-00) | C++ practice 00 (Class etc)             |
