@@ -20,8 +20,9 @@
 |          | [42myvimrc](https://github.com/solareenlo/42myvimrc)             | .myvimrc                                                                         |
 | Wiki     | [42wiki](https://github.com/solareenlo/42wiki)                   | wiki.js with 42 Oauth2.0                                                         |
 |          | [42wiki-db](https://github.com/solareenlo/42wiki-db)             | Backup for 42wiki                                                                |
-| Project  | [42cpp-module-04](https://github.com/solareenlo/42cpp-module-04) | C++ practice 04<br>(Subtype polymorphism, abstract classes, interfaces)          |
-|          | [42cpp-module-03](https://github.com/solareenlo/42cpp-module-03) | C++ practice 03<br>(inheritance, multiple inheritance)                           |
+| Project  | [42cpp-module-05](https://github.com/solareenlo/42cpp-module-05) | C++ practice 05<br>(Exception)                                                   |
+|          | [42cpp-module-04](https://github.com/solareenlo/42cpp-module-04) | C++ practice 04<br>(Subtype polymorphism, Abstract classes, Interfaces)          |
+|          | [42cpp-module-03](https://github.com/solareenlo/42cpp-module-03) | C++ practice 03<br>(Inheritance, Multiple inheritance)                           |
 |          | [42cpp-module-02](https://github.com/solareenlo/42cpp-module-02) | C++ practice 02<br>(Copy constructor, Operator overloading, Fixed point number)  |
 |          | [42cpp-module-01](https://github.com/solareenlo/42cpp-module-01) | C++ practice 01<br>(stack, heap, pointer, reference, delete[], overload, stream) |
 |          | [42cpp-module-00](https://github.com/solareenlo/42cpp-module-00) | C++ practice 00<br>(Class etc)                                                   |
