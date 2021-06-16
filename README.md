@@ -21,7 +21,7 @@
 | Wiki     | [42wiki](https://github.com/solareenlo/42wiki)                   | wiki.js with 42 Oauth2.0                                                                  |
 |          | [42wiki-db](https://github.com/solareenlo/42wiki-db)             | Backup for 42wiki                                                                         |
 | Project  | [42ft_containers](https://github.com/solareenlo/42ft_containers) | Reimplementing STL                                                                        |
-|          | [42netpractice](https://github.com/solareenlo/42netpractice)     | Network, Routing table                                                                    |
+|          | [42netpractice](https://github.com/solareenlo/42netpractice)     | Basics of networking and routing table                                                    |
 |          | [42cpp-module-08](https://github.com/solareenlo/42cpp-module-08) | C++ practice 08<br>(STL(vector, stack, deque), iterator, algorithm(find, sort, max, min)) |
 |          | [42cpp-module-07](https://github.com/solareenlo/42cpp-module-07) | C++ practice 07<br>(template, iter, array, operator[])                                    |
 |          | [42cpp-module-06](https://github.com/solareenlo/42cpp-module-06) | C++ practice 06<br>(sttaic_cast, reinterpret_cast, dynamic_cast)                          |
