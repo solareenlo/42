@@ -38,9 +38,10 @@
 |          | [ft_server](https://github.com/solareenlo/ft_server)             | Docker practice                                                                           |
 |          | [42get_next_line](https://github.com/solareenlo/42get_next_line) | getline                                                                                   |
 |          | [42libft](https://github.com/solareenlo/42libft)                 | Reimplementing libc                                                                       |
-| Exam     | [42exam-rank-04](https://github.com/solareenlo/42exam-rank-04)   | Exam Rank 04                                                                              |
-|          | [42exam-rank-03](https://github.com/solareenlo/42exam-rank-03)   | Exam Rank 03                                                                              |
-|          | [42exam-rank-02](https://github.com/solareenlo/42exam-rank-02)   | Exam Rank 02                                                                              |
+| Exam     | [42exam-rank-05](https://github.com/solareenlo/42exam-rank-05)   | Exam Rank 05 (Cpp (simple Encapsulation, Inheritance and Polymorphism))                   |
+|          | [42exam-rank-04](https://github.com/solareenlo/42exam-rank-04)   | Exam Rank 04 (pipe and fork)                                                              |
+|          | [42exam-rank-03](https://github.com/solareenlo/42exam-rank-03)   | Exam Rank 03 (Draw simple figure)                                                         |
+|          | [42exam-rank-02](https://github.com/solareenlo/42exam-rank-02)   | Exam Rank 02 (simple gnl and printf)                                                      |
 |          | [42exam](https://github.com/solareenlo/42exam)                   | Exam Practice                                                                             |
 | Reloaded | [42libunit](https://github.com/solareenlo/42libunit)             | Testing micro-framework in C                                                              |
 |          | [ft_mini_ls](https://github.com/solareenlo/ft_mini_ls)           | ft_mini_ls                                                                                |
