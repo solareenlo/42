@@ -26,6 +26,7 @@
 |          | [42cpp-module-07](https://github.com/solareenlo/42cpp-module-07)         | C++ practice 07<br>(template, iter, array, operator[])                                    |
 |          | [42cpp-module-06](https://github.com/solareenlo/42cpp-module-06)         | C++ practice 06<br>(sttaic_cast, reinterpret_cast, dynamic_cast)                          |
 |          | [42cpp-module-05](https://github.com/solareenlo/42cpp-module-05)         | C++ practice 05<br>(Exception, Base class, Derived class, Method pointer)                 |
+|          | [42Old-CPP_Module_04](https://github.com/solareenlo/42Old-CPP_Module_04) | Old-CPP Module 04                                                                         |
 |          | [42cpp-module-04](https://github.com/solareenlo/42cpp-module-04)         | C++ practice 04<br>(Subtype polymorphism, Abstract classes, Interfaces)                   |
 |          | [42Old-CPP_Module_03](https://github.com/solareenlo/42Old-CPP_Module_03) | Old-CPP Module 03                                                                         |
 |          | [42cpp-module-03](https://github.com/solareenlo/42cpp-module-03)         | C++ practice 03<br>(Inheritance, Multiple inheritance)                                    |
