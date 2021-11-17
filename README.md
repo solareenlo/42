@@ -19,6 +19,7 @@
 |          | [normfmt](https://github.com/solareenlo/normfmt)                         | Norminette formatter v3                                                                   |
 | Vim      | [42header](https://github.com/solareenlo/42header)                       | 42 header for jp                                                                          |
 |          | [42myvimrc](https://github.com/solareenlo/42myvimrc)                     | .myvimrc                                                                                  |
+|          | [vim-normfmt](https://github.com/solareenlo/vim-normfmt)                 | Vim plugin for normfmt                                                                    |
 | Wiki     | [42wiki](https://github.com/solareenlo/42wiki)                           | wiki.js with 42 Oauth2.0                                                                  |
 |          | [42wiki-db](https://github.com/solareenlo/42wiki-db)                     | Backup for 42wiki                                                                         |
 | Project  | [42ft_containers](https://github.com/solareenlo/42ft_containers)         | Reimplementing STL (C++98)                                                                |
