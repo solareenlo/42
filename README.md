@@ -20,6 +20,7 @@
 | Vim      | [42header](https://github.com/solareenlo/42header)                       | 42 header for jp                                                                          |
 |          | [42myvimrc](https://github.com/solareenlo/42myvimrc)                     | .myvimrc                                                                                  |
 |          | [vimrc-42](https://github.com/solareenlo/vimrc-42)                       | 42 standard vimrc                                                                         |
+|          | [vimrc-c-cpp](https://github.com/solareenlo/vimrc-c-cpp)                 | My .vimrc for c and cpp                                                                   |
 |          | [vim-normfmt](https://github.com/solareenlo/vim-normfmt)                 | Vim plugin for normfmt                                                                    |
 | Wiki     | [42wiki](https://github.com/solareenlo/42wiki)                           | wiki.js with 42 Oauth2.0                                                                  |
 |          | [42wiki-db](https://github.com/solareenlo/42wiki-db)                     | Backup for 42wiki                                                                         |
