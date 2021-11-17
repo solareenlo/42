@@ -12,11 +12,11 @@
 | Cluster  | [42cluster](https://github.com/solareenlo/42cluster)                     | Initialize cluster's Mac                                                                  |
 | Docker   | [42docker](https://github.com/solareenlo/42docker)                       | Dockerized tools used in 42cursus                                                         |
 | Norm     | [42norminette](https://github.com/solareenlo/42norminette)               | Norminette                                                                                |
+|          | [normfmt](https://github.com/solareenlo/normfmt)                         | Norminette formatter v3                                                                   |
 | Review   | [42review](https://github.com/solareenlo/42review)                       | Review                                                                                    |
 | Tool     | [42tools](https://github.com/solareenlo/42tools)                         | Making 42 life better                                                                     |
 |          | [42deque](https://github.com/solareenlo/42deque)                         | Deque                                                                                     |
 |          | [qsort.c](https://github.com/solareenlo/qsort.c)                         | My qsort                                                                                  |
-|          | [normfmt](https://github.com/solareenlo/normfmt)                         | Norminette formatter v3                                                                   |
 | Vim      | [42header](https://github.com/solareenlo/42header)                       | 42 header for jp                                                                          |
 |          | [42myvimrc](https://github.com/solareenlo/42myvimrc)                     | .myvimrc                                                                                  |
 |          | [vim-normfmt](https://github.com/solareenlo/vim-normfmt)                 | Vim plugin for normfmt                                                                    |
