@@ -16,6 +16,7 @@
 | Tool     | [42tools](https://github.com/solareenlo/42tools)                         | Making 42 life better                                                                     |
 |          | [42deque](https://github.com/solareenlo/42deque)                         | Deque                                                                                     |
 |          | [qsort.c](https://github.com/solareenlo/qsort.c)                         | My qsort                                                                                  |
+|          | [normfmt](https://github.com/solareenlo/normfmt)                         | Norminette formatter v3                                                                   |
 | Vim      | [42header](https://github.com/solareenlo/42header)                       | 42 header for jp                                                                          |
 |          | [42myvimrc](https://github.com/solareenlo/42myvimrc)                     | .myvimrc                                                                                  |
 | Wiki     | [42wiki](https://github.com/solareenlo/42wiki)                           | wiki.js with 42 Oauth2.0                                                                  |
