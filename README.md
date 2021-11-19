@@ -5,12 +5,14 @@
 
 | Category | Name                                                                     | Description                                                                               |
 |----------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Action   | [42valgrind-action](https://github.com/solareenlo/42valgrind-action)     | GitHub Action for 42valgrind                                                              |
 | AMA      | [42AMA](https://github.com/solareenlo/42AMA)                             | AMA                                                                                       |
 | API      | [42api](https://github.com/solareenlo/42api)                             | 42api reference                                                                           |
 |          | [42API-client](https://github.com/solareenlo/42API-client)               | 42's API with Next.js, SWR and Tailwind                                                   |
 | Book     | [42books](https://github.com/solareenlo/42books)                         | Reference books for 42cursus projects                                                     |
 | Cluster  | [42cluster](https://github.com/solareenlo/42cluster)                     | Initialize cluster's Mac                                                                  |
 | Docker   | [42docker](https://github.com/solareenlo/42docker)                       | Dockerized tools used in 42cursus                                                         |
+|          | [42valgrind-docker](https://github.com/solareenlo/42valgrind-docker)     | Dockerized valgrind + clang                                                               |
 | Norm     | [42norminette](https://github.com/solareenlo/42norminette)               | Norminette                                                                                |
 |          | [normfmt](https://github.com/solareenlo/normfmt)                         | Norminette formatter v3                                                                   |
 | Review   | [42review](https://github.com/solareenlo/42review)                       | Review                                                                                    |
